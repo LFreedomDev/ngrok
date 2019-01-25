@@ -10,8 +10,9 @@
 5.add client master-slave mode
 
 6.other 
-
-## Server Dashboard
+## Client Inpect Web
+![](https://raw.githubusercontent.com/LFreedomDev/ngrok-x/master/docs/client.dashboard.jpg)
+## Server Manager Web
 ![](https://raw.githubusercontent.com/LFreedomDev/ngrok-x/master/docs/dashboard.jpg)
 
 ## NgrokX base ngrok 1.x
