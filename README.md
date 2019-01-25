@@ -1,4 +1,4 @@
-## NgrokX base ngeok 1.x
+## NgrokX base ngrok 1.x
 ![](https://ngrok.com/static/img/overview.png)
 
 ## Server Dashboard
